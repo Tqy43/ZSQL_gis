@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北京市",
+        "area": 16410.54,
+        "population": 21540000,
+        "capital": "北京",
+        "type": "直辖市",
+        "gdp": 4027.1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.7,
+              39.4
+            ],
+            [
+              117.4,
+              39.4
+            ],
+            [
+              117.4,
+              41.6
+            ],
+            [
+              115.7,
+              41.6
+            ],
+            [
+              115.7,
+              39.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "广东省",
+        "area": 179800,
+        "population": 126012510,
+        "capital": "广州",
+        "type": "省",
+        "gdp": 12970.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.7,
+              20.2
+            ],
+            [
+              117.2,
+              20.2
+            ],
+            [
+              117.2,
+              25.5
+            ],
+            [
+              109.7,
+              25.5
+            ],
+            [
+              109.7,
+              20.2
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

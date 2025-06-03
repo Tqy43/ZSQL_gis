@@ -1,0 +1,74 @@
+[
+  {
+    "name": "长三角经济区",
+    "longitude": 120.5,
+    "latitude": 31.2,
+    "area": 358000,
+    "population": 235000000,
+    "gdp": 27050.0,
+    "cities": ["上海", "南京", "杭州", "苏州", "无锡", "宁波"],
+    "type": "经济区",
+    "established": 2010,
+    "industries": ["制造业", "金融", "科技", "物流"]
+  },
+  {
+    "name": "珠三角经济区",
+    "longitude": 113.5,
+    "latitude": 23.1,
+    "area": 55000,
+    "population": 86000000,
+    "gdp": 11500.0,
+    "cities": ["广州", "深圳", "佛山", "东莞", "中山", "珠海"],
+    "type": "经济区",
+    "established": 2009,
+    "industries": ["制造业", "科技", "外贸", "金融"]
+  },
+  {
+    "name": "京津冀经济区",
+    "longitude": 116.8,
+    "latitude": 39.5,
+    "area": 218000,
+    "population": 110000000,
+    "gdp": 9600.0,
+    "cities": ["北京", "天津", "石家庄", "唐山", "保定"],
+    "type": "经济区",
+    "established": 2014,
+    "industries": ["政治", "科技", "重工业", "服务业"]
+  },
+  {
+    "name": "成渝经济区",
+    "longitude": 105.3,
+    "latitude": 30.1,
+    "area": 206000,
+    "population": 96000000,
+    "gdp": 4500.0,
+    "cities": ["成都", "重庆", "绵阳", "德阳"],
+    "type": "经济区",
+    "established": 2011,
+    "industries": ["制造业", "农业", "能源", "科技"]
+  },
+  {
+    "name": "中原经济区",
+    "longitude": 113.6,
+    "latitude": 34.7,
+    "area": 287000,
+    "population": 180000000,
+    "gdp": 8500.0,
+    "cities": ["郑州", "洛阳", "开封", "新乡"],
+    "type": "经济区",
+    "established": 2012,
+    "industries": ["农业", "制造业", "物流", "能源"]
+  },
+  {
+    "name": "长江中游经济区",
+    "longitude": 114.3,
+    "latitude": 30.6,
+    "area": 317000,
+    "population": 120000000,
+    "gdp": 6800.0,
+    "cities": ["武汉", "长沙", "南昌", "岳阳"],
+    "type": "经济区",
+    "established": 2015,
+    "industries": ["制造业", "农业", "交通", "科技"]
+  }
+] 

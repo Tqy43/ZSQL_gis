@@ -1,0 +1,14 @@
+{
+  "note": "Shapefile支持说明",
+  "description": "本系统支持读取Shapefile格式数据",
+  "supported_formats": [
+    "点要素 (.shp)",
+    "线要素 (.shp)",
+    "面要素 (.shp)"
+  ],
+  "requirements": [
+    "需要安装geopandas: pip install geopandas",
+    "Shapefile文件包含: .shp, .shx, .dbf, .prj等文件"
+  ],
+  "example_usage": "将Shapefile文件拖拽到应用程序中即可导入"
+}

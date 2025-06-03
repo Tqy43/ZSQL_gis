@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北京市",
+        "area": 16410.54,
+        "population": 21540000,
+        "capital": "北京",
+        "type": "直辖市",
+        "gdp": 4027.1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.7, 39.4],
+          [117.4, 39.4],
+          [117.4, 41.6],
+          [115.7, 41.6],
+          [115.7, 39.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上海市",
+        "area": 6340.5,
+        "population": 24280000,
+        "capital": "上海",
+        "type": "直辖市",
+        "gdp": 4321.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [120.9, 30.7],
+          [122.0, 30.7],
+          [122.0, 31.9],
+          [120.9, 31.9],
+          [120.9, 30.7]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "广东省",
+        "area": 179800,
+        "population": 126012510,
+        "capital": "广州",
+        "type": "省",
+        "gdp": 12970.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [109.7, 20.2],
+          [117.2, 20.2],
+          [117.2, 25.5],
+          [109.7, 25.5],
+          [109.7, 20.2]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江苏省",
+        "area": 107200,
+        "population": 84748016,
+        "capital": "南京",
+        "type": "省",
+        "gdp": 11640.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.4, 30.8],
+          [121.9, 30.8],
+          [121.9, 35.3],
+          [116.4, 35.3],
+          [116.4, 30.8]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "浙江省",
+        "area": 105500,
+        "population": 64567588,
+        "capital": "杭州",
+        "type": "省",
+        "gdp": 7352.9
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [118.0, 27.0],
+          [123.0, 27.0],
+          [123.0, 31.5],
+          [118.0, 31.5],
+          [118.0, 27.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "山东省",
+        "area": 157100,
+        "population": 101527453,
+        "capital": "济南",
+        "type": "省",
+        "gdp": 8309.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [114.8, 34.4],
+          [122.7, 34.4],
+          [122.7, 38.4],
+          [114.8, 38.4],
+          [114.8, 34.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "河南省",
+        "area": 167000,
+        "population": 99365519,
+        "capital": "郑州",
+        "type": "省",
+        "gdp": 5887.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.4, 31.4],
+          [116.7, 31.4],
+          [116.7, 36.4],
+          [110.4, 36.4],
+          [110.4, 31.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "四川省",
+        "area": 486000,
+        "population": 83674866,
+        "capital": "成都",
+        "type": "省",
+        "gdp": 5385.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [97.4, 26.0],
+          [108.5, 26.0],
+          [108.5, 34.3],
+          [97.4, 34.3],
+          [97.4, 26.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖北省",
+        "area": 185900,
+        "population": 57752557,
+        "capital": "武汉",
+        "type": "省",
+        "gdp": 5012.9
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [108.3, 29.0],
+          [116.1, 29.0],
+          [116.1, 33.3],
+          [108.3, 33.3],
+          [108.3, 29.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖南省",
+        "area": 211800,
+        "population": 66444864,
+        "capital": "长沙",
+        "type": "省",
+        "gdp": 4601.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [108.8, 24.6],
+          [114.3, 24.6],
+          [114.3, 30.1],
+          [108.8, 30.1],
+          [108.8, 24.6]
+        ]]
+      }
+    }
+  ]
+} 

@@ -1,0 +1,43 @@
+# GIS应用系统 - 增强版+3D 依赖包
+# 核心GUI框架
+PyQt5>=5.15.0
+PyQtWebEngine>=5.15.0
+
+# 地图和可视化
+folium>=0.14.0
+plotly>=5.0.0
+
+# 数据处理
+pandas>=1.3.0
+numpy>=1.21.0
+
+# 统计图表
+matplotlib>=3.5.0
+
+# 数据库支持
+psycopg2-binary>=2.9.0  # PostgreSQL适配器
+sqlalchemy>=1.4.0       # ORM框架
+geoalchemy2>=0.12.0     # PostGIS支持
+
+# 地理数据处理
+geopandas>=0.12.0       # 地理数据处理
+fiona>=1.8.0            # Shapefile读写
+shapely>=1.8.0          # 几何操作
+pyproj>=3.3.0           # 坐标系转换
+rasterio>=1.3.0         # 栅格数据处理
+
+# 系统依赖
+# 注意：在Windows上可能需要额外安装：
+# - Microsoft Visual C++ Redistributable
+# - 如果遇到SSL错误，可能需要更新证书
+
+# 安装命令：
+# pip install -r requirements_enhanced.txt
+
+# Web集成
+requests>=2.25.0
+jinja2>=3.0.0
+
+# 可选：更多地图功能
+# contextily>=1.2.0  # 底图支持
+# branca>=0.4.0      # Folium的HTML/JS工具 

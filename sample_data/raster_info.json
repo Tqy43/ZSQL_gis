@@ -1,0 +1,26 @@
+{
+  "name": "栅格数据支持",
+  "supported_formats": [
+    "GeoTIFF (.tif, .tiff)",
+    "JPEG2000 (.jp2)",
+    "PNG (.png)",
+    "NetCDF (.nc)"
+  ],
+  "description": "栅格数据处理功能",
+  "requirements": [
+    "需要安装rasterio: pip install rasterio",
+    "支持多波段栅格数据",
+    "支持地理坐标系统"
+  ],
+  "example_data": {
+    "name": "中国高程数据模拟",
+    "type": "DEM",
+    "resolution": "30m",
+    "extent": {
+      "min_lon": 73.0,
+      "max_lon": 135.0,
+      "min_lat": 18.0,
+      "max_lat": 54.0
+    }
+  }
+}

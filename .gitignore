@@ -170,4 +170,17 @@ Thumbs.db
 # Project specific
 config.ini
 *.bak
-backup/ 
+backup/
+sample_data/
+docs/
+
+# Large files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.tif
+*.tiff
+*.img
+*.ovr
+*.aux.xml 
